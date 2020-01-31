@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rohzaeshoo.acealice.com/sitemap.xml
